@@ -1,0 +1,13 @@
+C:\Users\Chąśno\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Chąśno\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Chąśno\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Chąśno\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Chąśno\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Chąśno\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Chąśno\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Chąśno\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Chąśno\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Chąśno\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\Chąśno\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Chąśno\source\repos\WindowsFormsApp1\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Chąśno\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
